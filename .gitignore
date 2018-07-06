@@ -105,10 +105,12 @@ venv.bak/
 
 # my settings
 .DS_Store
-./csvs/
-./other_codes/
-./pkls/
-./py/
-./ref/
-./sch_data/
-./tmp_img/
+csvs/
+other_codes/
+pkls/
+py/
+ref/
+sch_data/
+tmp_img/
+*.pkl
+*.npy
